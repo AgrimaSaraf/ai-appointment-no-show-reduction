@@ -1,0 +1,11 @@
+# Assumptions
+
+- Clinics have historical appointment data
+- Patients respond to reminders
+- AI predictions are directionally accurate
+
+# Risks & Trade-offs
+
+- False positives may annoy patients
+- Over-automation could burden staff
+- Model bias if data quality is poor
