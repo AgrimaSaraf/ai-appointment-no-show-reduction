@@ -1,0 +1,21 @@
+# Success Metrics
+
+## North Star
+- No-show rate reduction
+
+## Supporting Metrics
+- Revenue recovered
+- Reminder engagement
+- Reschedule completion rate
+
+## Guardrails
+- Patient satisfaction
+- Staff workload
+
+
+# Experimentation Plan
+
+- Control group: Generic reminders
+- Treatment group: Risk-based reminders
+- Measure over 8–12 weeks
+- Evaluate statistical significance
