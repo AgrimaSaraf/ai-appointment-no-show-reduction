@@ -1,0 +1,19 @@
+# Product Requirements Document (PRD)
+
+## Objective
+Reduce clinic appointment no-show rates using predictive intelligence and smart interventions.
+
+## In Scope
+- Risk scoring for appointments
+- Automated reminders
+- Easy rescheduling workflows
+- Admin dashboard
+
+## Out of Scope
+- Clinical diagnosis
+- Billing systems
+- EHR replacement
+
+## Constraints
+- Must integrate with existing scheduling data
+- Privacy-sensitive data handling
