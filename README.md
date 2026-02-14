@@ -1,7 +1,7 @@
-# ai-appointment-no-show-reduction
+#AppointmentIQ - ai-appointment-no-show-reduction
 AI-powered product concept to reduce clinic appointment no-shows using predictive risk scoring and smart interventions.
 
-
+AppointmentIQ
 # AI Appointment No-Show Reduction System
 
 ## Overview
