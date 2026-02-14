@@ -1,0 +1,20 @@
+#Summary 
+
+I worked on an independent product management project focused on reducing appointment no-shows in outpatient clinics, which is a real operational and revenue problem in healthcare.
+
+I started with problem discovery.
+Clinics typically see no-show rates between 10 and 30 percent, which leads to unused capacity, lost revenue, and operational chaos for staff. Most clinics rely on generic SMS reminders that treat every appointment the same, which doesn’t work well. I quantified the impact and found that even a mid-sized clinic can lose several hundred thousand dollars annually due to no-shows.
+
+Next, I focused on users and workflows.
+I defined three primary personas: clinic administrators, front-desk staff, and patients. Administrators care about revenue and utilization, staff care about predictable schedules and reduced manual calling, and patients want low-friction reminders and easy rescheduling. I mapped the current appointment workflow and identified where no-shows typically occur and where proactive intervention could help.
+
+Based on this, I defined the product solution.
+The core idea was an AI-driven system that predicts which appointments are at high risk of no-show and triggers targeted interventions, such as smart reminders or easy rescheduling, instead of blanket notifications. I wrote a full PRD outlining the problem, goals, in-scope and out-of-scope features, and constraints like privacy and integration with existing clinic systems.
+
+From a delivery perspective,
+I created a phased roadmap. The MVP focuses on risk scoring and an admin dashboard so clinics can see which appointments need attention. Later phases add automation and optimization. I also specified API-level requirements and a high-level system design to show how the product could realistically be built by an engineering team.
+
+Finally, I defined success metrics and experimentation.
+The north-star metric is no-show rate reduction, supported by revenue recovered and patient engagement metrics. I designed an A/B testing plan comparing generic reminders with risk-based interventions to measure real impact while monitoring patient satisfaction as a guardrail.
+
+Overall, this project demonstrates how I approach product management end-to-end — from problem framing and user research to execution planning, metrics, and trade-off analysis — especially in a healthcare and AI context.
