@@ -1,0 +1,13 @@
+# Current Appointment Workflow
+
+1. Patient books appointment
+2. Appointment logged in clinic system
+3. Generic reminder sent (SMS/call)
+4. Patient forgets or cannot attend
+5. Appointment slot wasted
+6. Staff reacts after no-show occurs
+
+## Key Gaps
+- No risk prediction
+- No prioritization of high-risk patients
+- Reactive instead of proactive intervention
