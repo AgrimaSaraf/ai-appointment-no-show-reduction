@@ -1,0 +1,19 @@
+# Wireframes (Textual)
+
+- Admin Dashboard: No-show risk heatmap
+- Appointment View: Risk score + recommended action
+- Patient View: Reminder + reschedule CTA
+
+# System Overview
+
+- Input: Appointment + historical data
+- AI Layer: Risk prediction model
+- Backend: Rules engine for interventions
+- Output: Notifications and dashboards
+
+# API Requirements
+
+- POST /appointments
+- GET /appointments/{id}/risk-score
+- POST /notifications/send
+- POST /reschedule
